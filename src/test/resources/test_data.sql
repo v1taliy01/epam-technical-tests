@@ -7,5 +7,5 @@ CREATE TABLE couriers
 );
 
 INSERT INTO couriers (ID, FST_NME, LST_NME, ACTV) VALUES
-(1, 'Ben', 'Askew', 1),
-(2, 'Han', 'Solo', 0);
+(1, 'Bob', 'Sponge', 1),
+(2, 'Patrick', 'Star', 0);
